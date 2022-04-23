@@ -1,0 +1,2 @@
+# IPS_4inch_LCD_with_Registive_TouchScreen
+ダウンロードさせられるイメージを使いたくないので調べた
